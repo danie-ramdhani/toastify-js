@@ -1,4 +1,7 @@
-
+You can see the changes by cloning this repository
+```
+git clone https://github.com/danie-ramdhani/toastify-js.git
+```
 # Toastify
 
 ![Built with JavaScript](https://img.shields.io/badge/Built%20with-JavaScript-red?style=for-the-badge&logo=javascript)
